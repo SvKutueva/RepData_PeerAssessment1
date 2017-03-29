@@ -127,3 +127,7 @@ xyplot(steps ~ interval | day, stepsByDay, type = "l", layout = c(1, 2),
 
 
 
+
+
+
+
